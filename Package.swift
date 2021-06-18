@@ -12,7 +12,7 @@ let package = Package(
      targets: [
         .target(
                name: "SwiftTryCatch",
-               path: "SwiftTryCatch"
+               path: "Sources/SwiftTryCatch"
         )
      ]
  )
